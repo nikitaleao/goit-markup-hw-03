@@ -148,7 +148,7 @@ img {
 /* #region Hero */
 .hero {
   background: #2e2f42;
-  padding: 118px;
+  padding: 188px;
 }
 
 .hero-title {
@@ -178,6 +178,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  border: none;
 }
 .hero-btn:hover,
 .hero-btn:focus {
@@ -187,7 +188,7 @@ img {
 
 /* #region Features */
 .features-section {
-  padding: 120px;
+  padding: 120px 0;
 }
 .features-list {
   display: flex;
@@ -215,7 +216,7 @@ img {
 /* #region Team */
 .team-section {
   background: #f4f4fd;
-  padding: 120px;
+  padding: 120px 0;
 }
 .team-title {
   font-weight: 700;
@@ -261,7 +262,7 @@ img {
 
 /* #region Portfolio */
 .portfolio-section {
-  padding: 120px;
+  padding: 120px 0;
 }
 .portfolio-title {
   font-weight: 700;
